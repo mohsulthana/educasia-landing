@@ -39,7 +39,7 @@
   align-items: center;
   overflow: hidden;
   background:transparent;
-  height: fit-content;
+  height: 160px;
 }
 
 #clients img {
