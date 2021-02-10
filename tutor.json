@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "imagePath": "images/tutor/bejo.JPG",
+      "name": "Kak Bejo",
+      "subject": "MATEMATIKA",
+      "rating": "4,96",
+      "testimoni": "'Serasa diajar Einstein😱😱😱 ' ~ Faiq Hawaari Ahmad Pramuji",
+      "whatsAppLink": "https://wa.me/+6281231930343?text=Halo%20saya%20tertarik%20belajar%20Matematika%20di%20Educasia.%20Bisakah%20saya%20mendapatkan%20informasi%20lebih%20lanjut%3F%0ANama%20Saya%20adalah%20..."
+    },
+    {
+      "imagePath": "images/tutor/thayban.JPG",
+      "name": "Kak Thayban",
+      "subject": "KIMIA",
+      "rating": "4,92",
+      "testimoni": "'Sangat jelas saat menjelaskan' ~ Dzaky Alif Arkananta",
+      "whatsAppLink": "https://wa.me/+6281231930343?text=Halo%20saya%20tertarik%20belajar%20Kimia%20di%20Educasia.%20Bisakah%20saya%20mendapatkan%20informasi%20lebih%20lanjut%3F%0ANama%20Saya%20adalah%20..."
+    },
+    {
+      "imagePath": "images/tutor/eka.JPG",
+      "name": "Kak Eka",
+      "subject": "ENGLISH",
+      "rating": "4,96",
+      "testimoni": "'Ms. Eka makes my english more fluent every time she teach 😁' ~ Fairus Vavang Fisabilillah",
+      "whatsAppLink": "https://wa.me/+6281231930343?text=Halo%20saya%20tertarik%20belajar%20English%20di%20Educasia.%20Bisakah%20saya%20mendapatkan%20informasi%20lebih%20lanjut%3F%0ANama%20Saya%20adalah%20.."
+    },
+    {
+      "imagePath": "images/tutor/putri.JPG",
+      "name": "Kak Pudi",
+      "subject": "BIOLOGI",
+      "rating": "4,92",
+      "testimoni": "'Sangat menyenangkan banget kakaknya saat mengajar' ~ Aretoza Ramadhan",
+      "whatsAppLink": "https://wa.me/+6281231930343?text=Halo%20saya%20tertarik%20belajar%20Biologi%20di%20Educasia.%20Bisakah%20saya%20mendapatkan%20informasi%20lebih%20lanjut%3F%0ANama%20Saya%20adalah%20..."
+    }
+  ]
+}
